@@ -13,9 +13,9 @@
 
       <div id="navbar" class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
-          <li><a href="Index.php">Home</a></li>
-          <li><a href="About.php">About</a></li>
-          <li><a href="Location.php">Location</a></li>
+          <li><a href="index.php">Home</a></li>
+          <li><a href="about.php">About</a></li>
+          <li><a href="location.php">Location</a></li>
           <li><a href="hours.php">Hours</a></li>
           <li><a href="pizza.php">Pizza</a></li>
           <li><a href="pasta_and_subs.php">Pasta and Subs</a></li>
